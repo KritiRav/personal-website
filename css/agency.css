@@ -233,7 +233,7 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background-image: url('../../Pictures/mainpic.jpg');
+  background-image: url('../../Pictures/main.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -292,7 +292,7 @@ header .intro-text .intro-heading {
   }
 }
 section {
-  padding: 100px 0;
+  //padding: 100px 0;
 }
 section h2.section-heading {
   font-size: 40px;
@@ -309,7 +309,7 @@ section h3.section-subheading {
 }
 @media (min-width: 768px) {
   section {
-    padding: 150px 0;
+   // padding: 150px 0;
   }
 }
 .service-heading {

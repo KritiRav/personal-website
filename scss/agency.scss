@@ -220,7 +220,7 @@ header {
 // Global Section Styles
 
 section {
-    padding: 100px 0;
+    // padding: 100px 0;
     h2.section-heading {
         font-size: 40px;
         margin-top: 0;
@@ -238,7 +238,7 @@ section {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        //padding: 150px 0;
     }
 }
 
@@ -339,7 +339,7 @@ section {
         margin-left: -1.5px;
     }
     > li {
-        margin-bottom: 50px;
+        //margin-bottom: 50px;
         position: relative;
         min-height: 50px;
         &:before,
@@ -649,7 +649,7 @@ ul.social-buttons {
         box-shadow: none;
         border: none;
         min-height: 100%;
-        padding: 100px 0;
+        //padding: 100px 0;
         text-align: center;
         h2 {
             margin-bottom: 15px;
